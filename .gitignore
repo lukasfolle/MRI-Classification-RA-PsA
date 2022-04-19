@@ -1,0 +1,7 @@
+.idea/
+deep_learning/lightning_logs/
+*.txt
+Configurations_CV_*/
+deep_learning/architectures/Resnet3D/pretrained_checkpoints/
+deep_learning/CV_runs/lightning_logs/
+heatmaps/*
